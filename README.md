@@ -1,4 +1,7 @@
 # Coffee Sales Dashboard Project
+
+<div align="center"> <img src="Home.png" alt="Dashboard Overview" width="80 /> </div>
+
 ### Overview
 This project involves building an interactive sales dashboard in Excel to analyze coffee sales across different regions. The dashboard allows users to visualize key sales metrics, filter data dynamically, and gain actionable insights into sales trends, top-performing customers, and product performance.
 
