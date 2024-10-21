@@ -11,7 +11,7 @@ This project involves building an interactive sales dashboard in Excel to analyz
 - Excel (Pivot Tables, Pivot Charts, Slicers)
 - XLOOKUP, INDEX MATCH for data enrichment.
 - Data cleaning and transformation techniques (e.g., removing duplicates, formatting columns).
-- 
+  
 ### Data Preparation
 1. Imported data from three Excel sheets:
 
